@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0](https://github.com/getong/RustQuant/compare/RustQuant_trading-v0.3.1...RustQuant_trading-v0.5.0) - 2026-03-28
+
+### Other
+
+- Update README.md
+
 ## [0.2.11](https://github.com/avhz/RustQuant/releases/tag/RustQuant_trading-v0.2.11) - 2024-10-28
 
 ### Fixed

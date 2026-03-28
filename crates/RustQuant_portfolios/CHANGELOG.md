@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0](https://github.com/getong/RustQuant/compare/RustQuant_portfolios-v0.3.1...RustQuant_portfolios-v0.5.0) - 2026-03-28
+
+### Other
+
+- Update README.md
+
 ## [0.2.12](https://github.com/avhz/RustQuant/compare/RustQuant_portfolios-v0.2.11...RustQuant_portfolios-v0.2.12) - 2024-10-29
 
 ### Other

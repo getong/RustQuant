@@ -6,6 +6,35 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0](https://github.com/getong/RustQuant/compare/RustQuant_instruments-v0.3.1...RustQuant_instruments-v0.5.0) - 2026-03-28
+
+### Added
+
+- SABR model volatility and fitting
+
+### Fixed
+
+- pyo3 test/example errors on MacOS
+
+### Other
+
+- Merge pull request #300 from lifechange777/patch-4
+- #303 - refactored Calendar trait to struct
+- Merge pull request #270 from yfnaji/monte-carlo
+- Utilise assert_approx_equal for unit tests + lower tolerance
+- More robust unit tests for seedable cases
+- Header for at-the-money unit tests
+- Assertions on dates + remove comments
+- Update unit tests + Add unit tests for seeding
+- Update pricer with seeding capability
+- Make longstaff_schwartz module public
+- Add required packages in Cargo.toml
+- Unit tests
+- Define constructor, helper and pricer functions
+- Define Struct and imports
+- release v0.3.2
+- clippy lints
+
 ## [0.4.0](https://github.com/avhz/RustQuant/compare/RustQuant_instruments-v0.3.1...RustQuant_instruments-v0.4.0) - 2024-11-22
 
 ### Other
